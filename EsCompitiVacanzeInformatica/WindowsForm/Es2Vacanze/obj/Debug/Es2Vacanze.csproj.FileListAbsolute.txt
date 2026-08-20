@@ -1,0 +1,11 @@
+C:\Users\nicol\OneDrive\Desktop\EsCompitiVacanzeInformatica\WindowsForm\Es2Vacanze\bin\Debug\Es2Vacanze.exe.config
+C:\Users\nicol\OneDrive\Desktop\EsCompitiVacanzeInformatica\WindowsForm\Es2Vacanze\bin\Debug\Es2Vacanze.exe
+C:\Users\nicol\OneDrive\Desktop\EsCompitiVacanzeInformatica\WindowsForm\Es2Vacanze\bin\Debug\Es2Vacanze.pdb
+C:\Users\nicol\OneDrive\Desktop\EsCompitiVacanzeInformatica\WindowsForm\Es2Vacanze\obj\Debug\Es2Vacanze.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Desktop\EsCompitiVacanzeInformatica\WindowsForm\Es2Vacanze\obj\Debug\Es2Vacanze.Form1.resources
+C:\Users\nicol\OneDrive\Desktop\EsCompitiVacanzeInformatica\WindowsForm\Es2Vacanze\obj\Debug\Es2Vacanze.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Desktop\EsCompitiVacanzeInformatica\WindowsForm\Es2Vacanze\obj\Debug\Es2Vacanze.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Desktop\EsCompitiVacanzeInformatica\WindowsForm\Es2Vacanze\obj\Debug\Es2Vacanze.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Desktop\EsCompitiVacanzeInformatica\WindowsForm\Es2Vacanze\obj\Debug\Es2Vacanze.exe
+C:\Users\nicol\OneDrive\Desktop\EsCompitiVacanzeInformatica\WindowsForm\Es2Vacanze\obj\Debug\Es2Vacanze.pdb
+C:\Users\nicol\OneDrive\Desktop\EsCompitiVacanzeInformatica\WindowsForm\Es2Vacanze\obj\Debug\Es2Vacanze.exe.config

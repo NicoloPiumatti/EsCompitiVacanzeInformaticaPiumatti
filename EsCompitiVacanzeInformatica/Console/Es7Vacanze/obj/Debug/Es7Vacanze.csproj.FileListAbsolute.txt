@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive\Desktop\EsCompitiVacanzeInformatica\Console\Es7Vacanze\bin\Debug\Es7Vacanze.exe.config
+C:\Users\nicol\OneDrive\Desktop\EsCompitiVacanzeInformatica\Console\Es7Vacanze\bin\Debug\Es7Vacanze.exe
+C:\Users\nicol\OneDrive\Desktop\EsCompitiVacanzeInformatica\Console\Es7Vacanze\bin\Debug\Es7Vacanze.pdb
+C:\Users\nicol\OneDrive\Desktop\EsCompitiVacanzeInformatica\Console\Es7Vacanze\obj\Debug\Es7Vacanze.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Desktop\EsCompitiVacanzeInformatica\Console\Es7Vacanze\obj\Debug\Es7Vacanze.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Desktop\EsCompitiVacanzeInformatica\Console\Es7Vacanze\obj\Debug\Es7Vacanze.exe
+C:\Users\nicol\OneDrive\Desktop\EsCompitiVacanzeInformatica\Console\Es7Vacanze\obj\Debug\Es7Vacanze.pdb
